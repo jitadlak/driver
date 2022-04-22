@@ -1,0 +1,10 @@
+{
+  "packagerPort": 8081,
+  "packagerPid": null,
+  "devToolsPort": 19002,
+  "expoServerPort": 8081,
+  "expoServerNgrokUrl": "https://87-5sz.jit-adlak.driverapp2.exp.direct",
+  "packagerNgrokUrl": "https://packager.87-5sz.jit-adlak.driverapp2.exp.direct",
+  "ngrokPid": 13904,
+  "webpackServerPort": null
+}

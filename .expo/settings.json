@@ -1,0 +1,10 @@
+{
+  "hostType": "tunnel",
+  "lanType": "ip",
+  "dev": true,
+  "minify": false,
+  "urlRandomness": "87-5sz",
+  "https": false,
+  "scheme": "com.mobidonia.foodtiger",
+  "devClient": true
+}

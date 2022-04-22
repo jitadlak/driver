@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387222132754",
+    "project_id": "gomafoodtiger",
+    "storage_bucket": "gomafoodtiger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387222132754:android:ab00ca87e184fd6879e0cb",
+        "android_client_info": {
+          "package_name": "com.mobidonia.foodtiger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387222132754-46armdbt2gdrn52fdki0h7oe3eflat0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXMgZ3eYhHqlOGBrL7ZY8CJM1g665yG94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387222132754-46armdbt2gdrn52fdki0h7oe3eflat0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
